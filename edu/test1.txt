@@ -1,0 +1,11 @@
+git init : crea un sub dir .git ,un esqueleto del repositorio 
+git clone : clona localmente el repositorio de la nube
+cd : entrar en la carpeta 
+cat : leer el archivo README
+git checkout -b branchEdu : crear nueva brunch y entrar en ella
+mkdir edu : nueva carpeta
+nano test1.txt : nuevo archivo con estas palabras ....
+
+
+
+AURINEGRO NOMAAA!! (por que la enie no sale)
